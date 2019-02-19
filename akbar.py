@@ -3,4 +3,4 @@ def test_range(n):
         print( " %s is in the range"%str(n))
     else :
         print("The number is outside the given range.")
-test_range(5)
+test_range(6)
